@@ -1,0 +1,5 @@
+{
+  "name": "HIT Student Evaluation System",
+  "description": "A web application for High-Intensity Training (HIT) student evaluations. It provides role-based access for students to view their scores and for evaluators to submit and manage evaluations for group (HIT 200) and individual (HIT 400) projects.",
+  "requestFramePermissions": []
+}
