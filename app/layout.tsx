@@ -4,9 +4,10 @@ import { Analytics } from "@vercel/analytics/next"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "v0 App",
-  description: "Created with v0",
-  generator: "v0.app",
+  title: "HIT PROJECT EVALUATION SYSTEM",
+  description: "The system is a web based web application that is used at Harare Institute of technology for evaluating second (HIT200) and final (HIT400) projects."
+  "The system aim to comuputerise the current manual evaluation system to a paper-less system",
+
 }
 
 export default function RootLayout({
